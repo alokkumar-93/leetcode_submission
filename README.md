@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [1222-remove-covered-intervals](https://github.com/alokkumar-93/leetcode_submission/tree/master/1222-remove-covered-intervals) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/alokkumar-93/leetcode_submission/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
