@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/alokkumar-93/leetcode_submission/tree/master/0054-spiral-matrix) |
 | [1222-remove-covered-intervals](https://github.com/alokkumar-93/leetcode_submission/tree/master/1222-remove-covered-intervals) |
 ## Sorting
 |  |
@@ -13,4 +14,12 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/alokkumar-93/leetcode_submission/tree/master/0008-string-to-integer-atoi) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/alokkumar-93/leetcode_submission/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/alokkumar-93/leetcode_submission/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
