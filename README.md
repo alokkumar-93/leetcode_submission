@@ -8,10 +8,12 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/alokkumar-93/leetcode_submission/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1222-remove-covered-intervals](https://github.com/alokkumar-93/leetcode_submission/tree/master/1222-remove-covered-intervals) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/alokkumar-93/leetcode_submission/tree/master/3838-path-existence-queries-in-a-graph-i) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/alokkumar-93/leetcode_submission/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [1222-remove-covered-intervals](https://github.com/alokkumar-93/leetcode_submission/tree/master/1222-remove-covered-intervals) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/alokkumar-93/leetcode_submission/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -24,6 +26,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/alokkumar-93/leetcode_submission/tree/master/0054-spiral-matrix) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/alokkumar-93/leetcode_submission/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +55,16 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/alokkumar-93/leetcode_submission/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/alokkumar-93/leetcode_submission/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/alokkumar-93/leetcode_submission/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/alokkumar-93/leetcode_submission/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
