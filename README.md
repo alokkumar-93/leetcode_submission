@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/alokkumar-93/leetcode_submission/tree/master/0008-string-to-integer-atoi) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/alokkumar-93/leetcode_submission/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Matrix
 |  |
 | ------- |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/alokkumar-93/leetcode_submission/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3805-maximize-active-section-with-trade-i](https://github.com/alokkumar-93/leetcode_submission/tree/master/3805-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
